@@ -1,5 +1,5 @@
 # Project exclude paths
 /cmake-build-debug/
 /.idea/
-CMakeList.txt
-main.cpp
+/CMakeList.txt/
+/main.cpp/
